@@ -18,3 +18,14 @@ This project is a UI/UX redesign of a local home cleaning service website with a
 The design is structured to guide users from understanding the service to taking action through clear layout, spacing, and CTA placement.
 
 For detailed UX decisions, see: **design-rationale.md**
+
+## Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
+### Services Page
+![Services](screenshots/services.png)
+
+### Contact Page
+![Contact](screenshots/contact.png)
