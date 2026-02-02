@@ -22,10 +22,13 @@ For detailed UX decisions, see: **design-rationale.md**
 ## Screenshots
 
 ### Home Page
-![Home](screenshots/home.png)
+![Home](screenshots/home1.png)
+
+### Home Page (Section)
+![Home2](screenshots/home2.png)
 
 ### Services Page
-![Services](screenshots/services.png)
+![Services](screenshots/service.png)
 
 ### Contact Page
 ![Contact](screenshots/contact.png)
