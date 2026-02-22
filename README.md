@@ -19,16 +19,4 @@ The design is structured to guide users from understanding the service to taking
 
 For detailed UX decisions, see: **design-rationale.md**
 
-## Screenshots
 
-### Home Page
-![Home](screenshots/home1.png)
-
-### Home Page (Section)
-![Home2](screenshots/home2.png)
-
-### Services Page
-![Services](screenshots/service.png)
-
-### Contact Page
-![Contact](screenshots/contact.png)
